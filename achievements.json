@@ -1,4 +1,26 @@
 {
-  "id": 0,
-  "name": "Alexey"
+    "Achivments": 
+    [
+        {
+            "Achivment": {
+                "id": 0,
+                "ru": "Родиться",
+                "parent": -1
+            }
+        },
+        {
+            "Achivment": {
+                "id": 1,
+                "ru": "Пройти первые шаги",
+                "parent": 0
+            }
+        },
+        {
+            "Achivment": {
+                "id": 2,
+                "ru": "Сделать глупость",
+                "parent": 0
+            }
+        }
+    ]
 }
