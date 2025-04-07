@@ -5,6 +5,7 @@
             "Achivment": {
                 "id": 0,
                 "ru": "Родиться",
+                "eng" : "Be born",
                 "parent": -1
             }
         },
@@ -12,6 +13,7 @@
             "Achivment": {
                 "id": 1,
                 "ru": "Научиться ползать",
+                "eng" : "Learn to crawl",
                 "parent": 0
             }
         },
@@ -19,6 +21,7 @@
             "Achivment": {
                 "id": 2,
                 "ru": "Научиться ходить",
+                "eng": "Learn to walk",
                 "parent": 0
             }
         },
@@ -26,6 +29,7 @@
             "Achivment": {
                 "id": 3,
                 "ru": "Научиться говорить",
+                "eng": "Learn to speak",
                 "parent": 0
             }
         },
@@ -33,6 +37,7 @@
             "Achivment": {
                 "id": 4,
                 "ru": "Пойти в детский сад",
+                "eng": "Enroll in kindergarten",
                 "parent": 0
             }
         },
@@ -40,6 +45,7 @@
             "Achivment": {
                 "id": 5,
                 "ru": "Найти друга",
+                "eng" : "Make a friend",
                 "parent": 0
             }
         },
@@ -47,6 +53,7 @@
             "Achivment": {
                 "id": 6,
                 "ru": "Найти подругу",
+                "eng": "Make a friend",
                 "parent": 0
             }
         },
@@ -54,6 +61,7 @@
             "Achivment": {
                 "id": 7,
                 "ru": "Поиграть в кубики",
+                "eng": "Play a cubes",
                 "parent": 0
             }
         },
@@ -61,6 +69,7 @@
             "Achivment": {
                 "id": 8,
                 "ru": "Поиграть в машинки",
+                "eng": "Play with car",
                 "parent": 0
             }
         },
@@ -68,6 +77,7 @@
             "Achivment": {
                 "id": 9,
                 "ru": "Поиграть в куклы",
+                "eng": "Play with dolls",
                 "parent": 0
             }
         },
@@ -75,6 +85,7 @@
             "Achivment": {
                 "id": 10,
                 "ru": "Поесть кашу",
+                "eng": "Eat porridge",
                 "parent": 0
             }
         },
@@ -82,6 +93,7 @@
             "Achivment": {
                 "id": 11,
                 "ru": "Поесть суп",
+                "eng": "Eat soup",
                 "parent": 0
             }
         },
@@ -89,6 +101,7 @@
             "Achivment": {
                 "id": 12,
                 "ru": "Попить напиток",
+                "eng": "Have a drink",
                 "parent": 0
             }
         },
@@ -96,6 +109,7 @@
             "Achivment": {
                 "id": 13,
                 "ru": "Пойти в кружок",
+                "eng": "Go to a club",
                 "parent": 0
             }
         },
@@ -103,13 +117,15 @@
             "Achivment": {
                 "id": 14,
                 "ru": "Нарисовать пейзаж",
+                "eng": "Draw a landscape",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 15,
-                "ru": "Нарисовать натюриорт",
+                "ru": "Нарисовать натюрморт",
+                "eng": "Draw a still life",
                 "parent": 0
             }
         },
@@ -117,6 +133,7 @@
             "Achivment": {
                 "id": 16,
                 "ru": "Нарисовать портрет",
+                "eng": "Draw a portrait",
                 "parent": 0
             }
         },
@@ -131,34 +148,39 @@
             "Achivment": {
                 "id": 18,
                 "ru": "Пойти на утреник",
+                "eng": "Learn to dance",
                 "parent": 4
             }
         },
         {
             "Achivment": {
                 "id": 19,
-                "ru": "Отпразновать Новый Год",
+                "ru": "Отпраздновать Новый Год",
+                "eng": "Selebrate the New Year",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 20,
-                "ru": "Отпразновать Рождество",
+                "ru": "Отпраздновать Рождество",
+                "eng": "Selebrate the Christmas",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 21,
-                "ru": "Отпразновать День Защитника Отечества",
+                "ru": "Отпраздновать День Защитника Отечества",
+                "eng": "Selebrate defender of the Fatherland day",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 22,
-                "ru": "Отпразновать 8-е марта",
+                "ru": "Отпраздновать 8-е марта",
+                "eng": "Selebrate 8th March",
                 "parent": 0
             }
         },
@@ -166,6 +188,7 @@
             "Achivment": {
                 "id": 23,
                 "ru": "Разыграть друга на 1-е апреля",
+                "eng": "Prank a friend on April 1st",
                 "parent": 5
             }
         },
@@ -173,6 +196,7 @@
             "Achivment": {
                 "id": 24,
                 "ru": "Разыграть подругу на 1-е апреля",
+                "eng": "Prank a friend on April 1st",
                 "parent": 6
             }
         },
@@ -180,41 +204,47 @@
             "Achivment": {
                 "id": 25,
                 "ru": "Разыграть родителей на 1-е апреля",
+                "eng": "Prank a parents on April 1st",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 26,
-                "ru": "Отпразновать День Космонавтики",
+                "ru": "Отпраздновать День Космонавтики",
+                "eng": "Selebrate Cosmonautics day",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 27,
-                "ru": "Отпразновать 1-е мая",
+                "ru": "Отпраздновать 1-е мая",
+                "eng": "Selebrate May 1st",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 28,
-                "ru": "Отпразновать День Победы",
+                "ru": "Отпраздновать День Победы",
+                "eng": "Selebrate Victory Day",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 29,
-                "ru": "Отпразновать День детей",
+                "ru": "Отпраздновать День детей",
+                "eng": "Selebrate Child day",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 30,
-                "ru": "Отпразновать День России",
+                "ru": "Отпраздновать День России",
+                "eng": "Selebrate Russia Day",
                 "parent": 0
             }
         },
@@ -222,20 +252,23 @@
             "Achivment": {
                 "id": 31,
                 "ru": "Пойти в школу",
+                "eng": "Go to school",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 32,
-                "ru": "Отпразеовать День Учителя",
+                "ru": "Отпраздновать День Учителя",
+                "eng": "Selebrate Teacher day",
                 "parent": 0
             }
         },
         {
             "Achivment": {
                 "id": 33,
-                "ru": "Отпразновать День Народного Единства",
+                "ru": "Отпраздновать День Народного Единства",
+                "eng": "Selebrate National Unity Day",
                 "parent": 0
             }
         },
@@ -243,6 +276,7 @@
             "Achivment": {
                 "id": 34,
                 "ru": "Научиться писать",
+                "eng": "Learn to write",
                 "parent": 0
             }
         },
@@ -250,6 +284,7 @@
             "Achivment": {
                 "id": 35,
                 "ru": "Получить 5-ку",
+                "eng": "Get a score of 5",
                 "parent": 31
             }
         },
@@ -257,6 +292,7 @@
             "Achivment": {
                 "id": 36,
                 "ru": "Получить 4-ку",
+                "eng": "Get a score of 4",
                 "parent": 31
             }
         },
@@ -264,6 +300,7 @@
             "Achivment": {
                 "id": 37,
                 "ru": "Получить 3-ку",
+                "eng": "Get a score of 3",
                 "parent": 31
             }
         },
@@ -271,6 +308,7 @@
             "Achivment": {
                 "id": 38,
                 "ru": "Получить 2-ку",
+                "eng": "Get a score of 2",
                 "parent": 31
             }
         },
@@ -278,6 +316,7 @@
             "Achivment": {
                 "id": 39,
                 "ru": "Выйти к доске",
+                "eng": "Go to the board",
                 "parent": 31
             }
         },
@@ -285,6 +324,7 @@
             "Achivment": {
                 "id": 40,
                 "ru": "Написать Самостоятельную",
+                "eng": "Write an 'Independent'",
                 "parent": 31
             }
         },
@@ -292,6 +332,7 @@
             "Achivment": {
                 "id": 41,
                 "ru": "Написать Контрольную",
+                "eng": "Write an Test",
                 "parent": 31
             }
         },
@@ -299,6 +340,7 @@
             "Achivment": {
                 "id": 42,
                 "ru": "Написать Промежуточную аттестацию",
+                "eng": "Write an interim assessment",
                 "parent": 31
             }
         },
@@ -306,6 +348,7 @@
             "Achivment": {
                 "id": 43,
                 "ru": "Написать Сочинение",
+                "eng": "Write an writing",
                 "parent": 31
             }
         },
@@ -313,6 +356,7 @@
             "Achivment": {
                 "id": 44,
                 "ru": "Написать Изложение",
+                "eng": "Write an presentation",
                 "parent": 31
             }
         },
@@ -320,13 +364,15 @@
             "Achivment": {
                 "id": 45,
                 "ru": "Хорошо провести летние каникулы",
+                "eng": "Have a good summer vacation",
                 "parent": 31
             }
         },
         {
             "Achivment": {
                 "id": 46,
-                "ru": "Номрмально провести летние каникулы",
+                "ru": "Нормально провести летние каникулы",
+                "eng": "Have a normal summer vacation",
                 "parent": 31
             }
         },
@@ -334,13 +380,15 @@
             "Achivment": {
                 "id": 47,
                 "ru": "Плохо провести летние каникулы",
+                "eng": "Have a bad summer vacation",
                 "parent": 31
             }
         },
         {
             "Achivment": {
                 "id": 48,
-                "ru": "Пойти во 2-ой класс",
+                "ru": "Перейти во 2-ой класс",
+                "eng": "Go to 2nd grade",
                 "parent": 31
             }
         },
@@ -348,13 +396,15 @@
             "Achivment": {
                 "id": 49,
                 "ru": "Написать сочинение 'Как я провёл лето'",
+                "ru": "Write an essay on 'How I spent my summer'",
                 "parent": 31
             }
         },
         {
             "Achivment": {
                 "id": 50,
-                "ru": "Пойти в 3-ий класс",
+                "ru": "Перейти в 3-ий класс",
+                "eng": "Go to 3rd grade",
                 "parent": 48
             }
         },
@@ -362,6 +412,7 @@
             "Achivment": {
                 "id": 51,
                 "ru": "Пойти в 4-ый класс",
+                "eng": "Go to 4th grade",
                 "parent": 50
             }
         },
@@ -369,6 +420,7 @@
             "Achivment": {
                 "id": 52,
                 "ru": "Написать ВПР",
+                "eng": "Write ARVW",
                 "parent": 51
             }
         },
@@ -376,6 +428,7 @@
             "Achivment": {
                 "id": 53,
                 "ru": "Перейти в 5-ый класс",
+                "eng": "Go to 5th grade",
                 "parent": 52
             }
         },
@@ -383,6 +436,7 @@
             "Achivment": {
                 "id": 54,
                 "ru": "Перейти в 6-ой класс",
+                "eng": "Go to 6th grade",
                 "parent": 53
             }
         },
@@ -390,6 +444,7 @@
             "Achivment": {
                 "id": 55,
                 "ru": "Перейти в 7-ой класс",
+                "eng": "Go to 7th grade",
                 "parent": 54
             }
         },
@@ -397,6 +452,7 @@
             "Achivment": {
                 "id": 56,
                 "ru": "Перейти в 8-ой класс",
+                "eng": "Go to 8th grade",
                 "parent": 55
             }
         },
@@ -404,6 +460,7 @@
             "Achivment": {
                 "id": 57,
                 "ru": "Получить паспорт",
+                "eng": "Get a passport",
                 "parent": 55
             }
         },
@@ -411,6 +468,7 @@
             "Achivment": {
                 "id": 58,
                 "ru": "Перейти в 9-ый класс",
+                "eng": "Go to 9th grade",
                 "parent": 56
             }
         },
@@ -418,6 +476,7 @@
             "Achivment": {
                 "id": 59,
                 "ru": "Написать ОГЭ",
+                "eng": "Write ARVW",
                 "parent": 58
             }
         },
@@ -425,6 +484,7 @@
             "Achivment": {
                 "id": 60,
                 "ru": "Перейти в 10-ый класс",
+                "eng": "Go to 10th grade",
                 "parent": 59
             }
         },
@@ -432,6 +492,7 @@
             "Achivment": {
                 "id": 61,
                 "ru": "Перейти в 11-ый класс",
+                "eng": "Go to 11th grade",
                 "parent": 60
             }
         },
@@ -439,6 +500,7 @@
             "Achivment": {
                 "id": 62,
                 "ru": "Пройти устное собеседование",
+                "eng": "Take an oral interview",
                 "parent": 61
             }
         },
@@ -446,6 +508,7 @@
             "Achivment": {
                 "id": 63,
                 "ru": "Сдать ЕГЭ",
+                "eng": "Write USE",
                 "parent": 62
             }
         },
@@ -453,6 +516,7 @@
             "Achivment": {
                 "id": 64,
                 "ru": "Стать студентом",
+                "eng": "Become a student",
                 "parent": 58
             }
         },
@@ -460,6 +524,7 @@
             "Achivment": {
                 "id": 65,
                 "ru": "Получить Бакалавриата",
+                "eng": "Get a Bachelor`s Degree",
                 "parent": 64
             }
         },
@@ -467,6 +532,7 @@
             "Achivment": {
                 "id": 66,
                 "ru": "Получить Специалиста",
+                "eng": "Get a Specialis Degree",
                 "parent": 65
             }
         },
@@ -474,6 +540,7 @@
             "Achivment": {
                 "id": 67,
                 "ru": "Получить Магистра",
+                "eng": "Get a Magister`s Degree",
                 "parent": 66
             }
         },
@@ -481,6 +548,7 @@
             "Achivment": {
                 "id": 68,
                 "ru": "Поступить в летнюю школу",
+                "eng": "Enroll in summer school",
                 "parent": 64
             }
         },
@@ -488,6 +556,7 @@
             "Achivment": {
                 "id": 69,
                 "ru": "Пойти на стажировку",
+                "eng": "Go on an internship",
                 "parent": 0
             }
         },
@@ -495,6 +564,7 @@
             "Achivment": {
                 "id": 70,
                 "ru": "Устроиться работать",
+                "eng": "Get a job",
                 "parent": 0
             }
         },
@@ -502,6 +572,7 @@
             "Achivment": {
                 "id": 71,
                 "ru": "Получить первую зарплату",
+                "eng": "Get your first paycheck",
                 "parent": 70
             }
         },
@@ -509,6 +580,7 @@
             "Achivment": {
                 "id": 72,
                 "ru": "Получить банковскую карту",
+                "eng": "Get a bank card",
                 "parent": 0
             }
         },
@@ -516,6 +588,7 @@
             "Achivment": {
                 "id": 73,
                 "ru": "Купить что-нибудь",
+                "eng": "Buy something",
                 "parent": 0
             }
         },
@@ -523,6 +596,7 @@
             "Achivment": {
                 "id": 74,
                 "ru": "Продать что-нибудь",
+                "eng": "Sell something",
                 "parent": 0
             }
         },
@@ -530,6 +604,7 @@
             "Achivment": {
                 "id": 75,
                 "ru": "Взять кредит",
+                "eng": "Take out a loan",
                 "parent": 0
             }
         },
@@ -537,6 +612,7 @@
             "Achivment": {
                 "id": 76,
                 "ru": "Выплатить кредит",
+                "eng": "Pay off the loan",
                 "parent": 75
             }
         },
@@ -544,6 +620,7 @@
             "Achivment": {
                 "id": 77,
                 "ru": "Купить квартиру",
+                "eng": "Buy an apartament",
                 "parent": 0
             }
         },
@@ -551,7 +628,60 @@
             "Achivment": {
                 "id": 78,
                 "ru": "Купить машину",
+                "eng": "Buy a car",
                 "parent": 0
+            }
+        },
+        {
+            "Achivment": {
+                "id": 79,
+                "ru": "Выиграть олимпиаду/конкурс",
+                "eng": "Win the Olympiad/competition",
+                "parent": 0
+            }
+        },
+        {
+            "Achivment": {
+                "id": 80,
+                "ru": "Подтянуться 1 раз",
+                "eng": "Pull up 1 time",
+                "parent": 0
+            }
+        }
+        ,
+        {
+            "Achivment": {
+                "id": 81,
+                "ru": "Подтянуться 5 раз",
+                "eng": "Pull up 5 time",
+                "parent": 80
+            }
+        }
+        ,
+        {
+            "Achivment": {
+                "id": 82,
+                "ru": "Подтянуться 10 раз",
+                "eng": "Pull up 10 time",
+                "parent": 81
+            }
+        }
+        ,
+        {
+            "Achivment": {
+                "id": 83,
+                "ru": "Подтянуться 15 раз",
+                "eng": "Pull up 15 time",
+                "parent": 82
+            }
+        }
+        ,
+        {
+            "Achivment": {
+                "id": 84,
+                "ru": "Подтянуться 20 раз",
+                "eng": "Pull up 20 time",
+                "parent": 83
             }
         }
     ]
