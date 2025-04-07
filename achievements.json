@@ -141,6 +141,7 @@
             "Achivment": {
                 "id": 17,
                 "ru": "Научиться танцевать",
+                "eng": "Learn to dance",
                 "parent": 0
             }
         },
@@ -148,7 +149,7 @@
             "Achivment": {
                 "id": 18,
                 "ru": "Пойти на утреник",
-                "eng": "Learn to dance",
+                "eng": "Go to matinee",
                 "parent": 4
             }
         },
